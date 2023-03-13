@@ -1,2 +1,2 @@
 # Android-Oscilloscope-AI
-Android scope using Arduino, App Inventor.
+Android scope using Arduino, App Inventor. https://appinventor.mit.edu/
